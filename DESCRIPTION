@@ -20,6 +20,7 @@ Config/roxygen2/version: 8.0.0
 VignetteBuilder: knitr
 Suggests: 
     knitr,
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
+    rmarkdown
 Config/testthat/edition: 3
 Language: en-US
