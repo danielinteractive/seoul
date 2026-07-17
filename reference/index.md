@@ -1,0 +1,10 @@
+# Package index
+
+## Functions
+
+- [`bar()`](https://danielinteractive.github.io/seoul/reference/bar.md)
+  : Create a Data Frame
+- [`foo()`](https://danielinteractive.github.io/seoul/reference/foo.md)
+  : Foo Function to Create a Fancy List
+- [`hello()`](https://danielinteractive.github.io/seoul/reference/hello.md)
+  : Hello Function
