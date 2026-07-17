@@ -24,3 +24,4 @@ Suggests:
     rmarkdown
 Config/testthat/edition: 3
 Language: en-US
+URL: https://danielinteractive.github.io/seoul/

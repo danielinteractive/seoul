@@ -8,6 +8,13 @@
 \description{
 This is a cool package written by Daniel Sabanes.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://danielinteractive.github.io/seoul/}
+}
+
+}
 \author{
 \strong{Maintainer}: Daniel Sabanes \email{daniel@rpact.com}
 

@@ -1,0 +1,9 @@
+url: https://danielinteractive.github.io/seoul/
+template:
+  bootstrap: 5
+
+reference:
+  - title: Functions
+    contents:
+      - foo
+      - hello
